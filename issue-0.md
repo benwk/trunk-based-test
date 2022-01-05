@@ -2,4 +2,6 @@
 
 This is for issue 0.
 
-removed
+a small changes
+
+another small change from issue 1
